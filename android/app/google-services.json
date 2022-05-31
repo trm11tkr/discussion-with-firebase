@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066432082496",
+    "project_id": "discussion-firebase-e0f38",
+    "storage_bucket": "discussion-firebase-e0f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066432082496:android:4c8275952c40e2d7aa65a5",
+        "android_client_info": {
+          "package_name": "com.example.discussion_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066432082496-u65sm1nhlvco14q4nsijdnl1tcvmrdon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHvITTLFZpqhGYzbzlDFHMz66MDp4bFGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066432082496-u65sm1nhlvco14q4nsijdnl1tcvmrdon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
